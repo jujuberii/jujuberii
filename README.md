@@ -1,3 +1,3 @@
 ## avery/juju/marsh
 
-#any pronouns, genderfluid/sapphic
+any pronouns, genderfluid/sapphic
