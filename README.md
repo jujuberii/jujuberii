@@ -1,4 +1,5 @@
 ## avery/juju/marsh
 
 any pronouns, genderfluid/sapphic
-![stan](https://github.com/user-attachments/assets/e08ba4da-c119-41f6-9a3e-509ab7af2680) 
+![woof](https://github.com/user-attachments/assets/5ccbd11b-dddc-465f-9b0b-11a147e2698d)
+
