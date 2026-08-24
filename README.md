@@ -17,6 +17,7 @@
 ‎ 
 ‎ 
 ‎ <div align="center">
+  <a href="https://www.last.fm/user/jujuberii"><img src="https://lastfm-recently-played.vercel.app/api?user=jujuberii" height="auto" width="350px"/></a>
 ‎
 ‎ 
 ‎ 
